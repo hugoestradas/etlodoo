@@ -1,4 +1,4 @@
-# E-Rate FCC Form 470 Data Pipeline
+# FCC Form 470 Data Pipeline
 
 A production-minded data pipeline for ingesting, modeling, and analyzing E-Rate FCC Form 470 data from USAC's Socrata API.
 
